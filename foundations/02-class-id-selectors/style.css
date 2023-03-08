@@ -1,6 +1,7 @@
 .Basic {
-    background-color: salmon;
+    background-color: rgb(255, 167, 167);
     font-size: 24px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .Big {
@@ -13,7 +14,6 @@
 }
 
 #num4 {
-    background-color: greenyellow;
-    font-size: 32px;
+    background-color: hsl(120, 100%, 75%);
     font-weight: bold;
 }
